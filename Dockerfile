@@ -286,9 +286,3 @@ FROM bitnami/dotnet:5.0.14-debian-10-r19
 
 # Tags: 3.1.22-debian-10-r74
 FROM bitnami/dotnet:3.1.22-debian-10-r74
-
-# Tags: 6.0.2-debian-10-r19
-FROM bitnami/dotnet:6.0.2-debian-10-r19
-
-# Tags: 5.0.14-debian-10-r18
-FROM bitnami/dotnet:5.0.14-debian-10-r18
